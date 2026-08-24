@@ -1,0 +1,3 @@
+Conflicto de confianza con la hermana mayor de Mijail: él le vendió/alquiló el puesto de mercado con la condición de que ella pagara S/400/mes de alquiler. Ella dejó de pagar y además subalquiló el puesto a sus espaldas durante 1 año, dinero que Mijail considera "casi imposible recuperar". Esto generó pérdida de confianza hacia ella.
+
+La hermana menor aún mantiene "cierta credibilidad" ante Mijail. Se evaluó la opción de que ella ocupe el puesto de mercado por 2 años para sanear la posesión legal, pero finalmente se descartó (ver `finanzas-personales/puesto-mercado-ayacucho-venta.md`): Mijail decide explícitamente no involucrar a la hermana menor en el plan, para no repetir el patrón de dependencia/riesgo familiar vivido con la hermana mayor.

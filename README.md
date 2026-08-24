@@ -4,14 +4,20 @@ Todo lo que hay aquí no es un activo de la empresa. No se vende, no se
 transfiere, no vive en la organización de GitHub de Breakinsoft, sin importar
 cuánto contenido haga referencia a Breakinsoft.
 
-## Repos/carpetas
+## Estructura
 
-- **personal** — journal, relaciones, salud/fitness, finanzas personales.
-  Sin plantilla rígida donde no haga falta.
-- **personal-synthesis** — tu "segundo cerebro" real: patrones y criterio que
-  cruzan negocio y vida personal. Material semilla de tus futuros libros.
-- **conversations** — conversaciones completas (verbatim) que valen la pena
-  conservar tal cual, no solo destiladas.
+- **`overview.md`** — línea de tiempo, background y estado de decisiones.
+  Punto de entrada para orientarse antes de evaluar cualquier cosa.
+- **Áreas** (`relaciones/`, `salud-fitness/`, `finanzas-personales/`,
+  `crecimiento-personal/`) — cada una con:
+  - `sintesis/` — notas destiladas, libres, sin plantilla rígida.
+  - `conversaciones/` — charlas completas (verbatim) que valen la pena
+    conservar tal cual, no solo destiladas. Ver `conversaciones/README.md`
+    de cada área y usar `conversaciones/_template.md` como encabezado.
+- **`synthesis/themes/`** — tu "segundo cerebro" real: patrones y criterio
+  que cruzan negocio y vida personal. Material semilla de tus futuros libros.
+  Deliberadamente no se reparte por área — su valor es cruzar límites.
+- **`books/`**, **`agents/`** — sin cambios.
 
 ## La regla de oro
 
